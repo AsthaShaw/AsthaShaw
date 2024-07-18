@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Astha Shaw</h1>
 <h3 align="center">A passionate individual from London with 5+ years of experience in Technical Training and 2+ years of Software Engineering experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asthashaw&label=Profile%20views&color=0e75b6&style=flat" alt="asthashaw" /> </p>
-
 - 🔭 I’m currently working on [SpringBoot project with microservices](https://github.com/AsthaShaw/SpringBootRestAPIWithMicroservices)
 
 - 🌱 I’m currently learning **SpringBoot with Microservices and AWS Cloud Practitioner Exam**
